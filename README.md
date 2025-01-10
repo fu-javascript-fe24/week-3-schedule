@@ -26,10 +26,10 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 
 **Förinspelat**
 
-*[Arrayer - Koncept](https://vimeo.com/760941929/2c430d9fda)
-*[Arrayer - Kodexempel](https://vimeo.com/760941992/790a734d24)
-*[Objekt - Koncept](https://vimeo.com/760940640/b6fb00d671)
-*[Objekt - Kodexempel](https://vimeo.com/760940674/e6e58cf8d8)
+* [Arrayer - Koncept](https://vimeo.com/760941929/2c430d9fda)
+* [Arrayer - Kodexempel](https://vimeo.com/760941992/790a734d24)
+* [Objekt - Koncept](https://vimeo.com/760940640/b6fb00d671)
+* [Objekt - Kodexempel](https://vimeo.com/760940674/e6e58cf8d8)
 
 ### Lektionsrepon
 
