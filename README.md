@@ -24,7 +24,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 **LIVE**
 * [Arrayer och Objekt, 13 januari]()
 
-**Förinspelat**
+**Förinspelat** (för distansklassen)
 
 * [Arrayer - Koncept](https://vimeo.com/760941929/2c430d9fda)
 * [Arrayer - Kodexempel](https://vimeo.com/760941992/790a734d24)
