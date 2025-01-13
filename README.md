@@ -33,7 +33,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 
 ### Lektionsrepon
 
-* [13 januari]()
+* [13 januari](https://github.com/fu-javascript-fe24/week-3-lecture-13-jan)
 
 ### Filmer
 
