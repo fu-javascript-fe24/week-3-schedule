@@ -22,7 +22,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 ### Inspelade föreläsningar
 
 **LIVE**
-* [Arrayer och Objekt, 13 januari]()
+* [Arrayer och Objekt, 13 januari](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ebkq5fuZmShIlfNBnxW7eowBLJc8iH8NFSQkTM_cO4MO2w?e=dKluWC)
 
 **Förinspelat** (för distansklassen)
 
