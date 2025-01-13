@@ -45,6 +45,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 * [JavaScript Tutorial - W3School](https://www.w3schools.com/js/default.asp)
 * [Array JavaScript Tutorial - W3School](https://www.w3schools.com/js/js_arrays.asp)
 * [Objects JavaScript Tutorial - W3School](https://www.w3schools.com/js/js_objects.asp)
+* [MDN Array Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 
 ### Övningar 
