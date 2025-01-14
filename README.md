@@ -53,6 +53,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 * [Array Bootcamp](https://github.com/fu-javascript-fe24/week-3-exercise-array-bootcamp)
 * [Objects Bootcamp](https://github.com/fu-javascript-fe24/week-3-exercise-object-bootcamp)
 * [Computational Thinking Games](https://github.com/fu-javascript-fe24/week-2-exercise-computational-thinking-games/tree/main)
+* [Code Review - Tic Tac Toe](https://github.com/fu-javascript-fe24/code-review-tic-tac-toe)
 
 
 
