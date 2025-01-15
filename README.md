@@ -25,6 +25,7 @@ Denna andra vecka kommer vi fortsätta att bygga på våra grundläggande kunska
 * [Arrayer och Objekt, 13 januari](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ebkq5fuZmShIlfNBnxW7eowBLJc8iH8NFSQkTM_cO4MO2w?e=dKluWC)
 * [Arrayer och Objekt fördjupning, 13 januari](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/Eff9XsQqVzRFquS8khlnVOIBFkP5DooMIL93vFWb6_76hQ?e=5Q7j5r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * [Code Along - Distans, 14 januari](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EeLBHj1aWmlOiMH8oQcVF38B5ZBbTZMPvX2LFe79lmqlZA?e=ejWvtd)
+* [Code Along - Karlstad, 15 januari](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ETfwNRJQpVFJsTk0FUOyepkBHgTPUVOnWCOx-WDUIwndbw?e=Gp2IYr)
 
 **Förinspelat** (för distansklassen)
 
